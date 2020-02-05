@@ -1,4 +1,4 @@
-# CRUD Using CodeIgniter
+# CRUD Aplication
 This is a simple CRUD using CodeIgniter and Bootstrap
 
 **1. READ DATA**
