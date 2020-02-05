@@ -3,7 +3,7 @@ This is a simple CRUD using CodeIgniter and Bootstrap
 
 **1. CREATE DATA**
 
-![add](https://user-images.githubusercontent.com/46634156/73839296-3ad36880-4848-11ea-805c-20c3909ec499.png)
+![add](https://user-images.githubusercontent.com/46634156/73856990-d83e9480-4868-11ea-832e-2e3f285f12ef.png)
 
 
 
