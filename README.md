@@ -14,7 +14,7 @@ This is a simple CRUD using CodeIgniter and Bootstrap
 
 **3. UPDATE DATA**
 
-![edit](https://user-images.githubusercontent.com/46634156/73839372-6bb39d80-4848-11ea-8115-856cc03d9869.png)
+![select](https://user-images.githubusercontent.com/46634156/73912476-2abe9600-48e7-11ea-8f5c-ecf4f121c3ff.png)
 
 
 **4. DELETE DATA**
